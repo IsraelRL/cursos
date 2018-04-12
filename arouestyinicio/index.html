@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+
+<!-- Mirrored from webdesign-finder.com/html/models/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jan 2018 07:59:16 GMT -->
+<head>
+	<title>Arouesty Sistema</title>
+	<meta charset="utf-8">
+	<!--[if IE]>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <![endif]-->
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/main.css" id="color-switcher-link">
+	<link rel="stylesheet" href="css/animations.css">
+	<link rel="stylesheet" href="css/fonts.css">
+	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+	<!--[if lt IE 9]>
+        <script src="js/vendor/html5shiv.min.js"></script>
+        <script src="js/vendor/respond.min.js"></script>
+    <![endif]-->
+    <!-- Validar contraseña -->
+        <script type="text/javascript">
+          function passwordMatch() {
+            var password, password2;
+
+            password = document.getElementById('pass');
+            password2 = document.getElementById('pass2');
+
+            password.onchange = password2.onkeyup = passwordMatch;
+
+          
+                if(password.value !== password2.value)
+                    password2.setCustomValidity('Las contraseñas no coinciden.');
+                else
+                    password2.setCustomValidity('');
+            }
+        </script>
+</head>
+
+<body>
+	<!--[if lt IE 9]>
+        <div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+    <![endif]-->
+
+	<div class="preloader">
+		<div class="preloader_image"></div>
+	</div>
+
+
+	<!-- wrappers for visual page editor and boxed version of template -->
+	<div id="canvas">
+		<div id="box_wrapper">
+            
+
+
+			<!-- template sections -->
+
+			<header class="page_header header_darkgrey columns_padding_0 table_section">
+				<div class="container-fluid">
+					
+				</div>
+			</header>
+
+			
+
+			<section class="ds section_padding_80 columns_padding_25">
+				<div class="container">
+					<div class="row">
+
+
+						<div class="col-md-12">
+
+							<article>
+								<h1 style="text-align: center">Registro</h1>
+
+								<div class="entry-content">
+									<br>
+									<h2>Membresía Mensual</h2>
+									<h2>$499</h2>
+									<p>Esta membresía te dará acceso a todos los contenidos de nuestro curso de retoque digital y además tendrás un 20% de descuento en nuestros workshops que te enviaremos mensualmente por medio de nuestro newsletter.</p>
+									<br>
+									<h3>Crea tu cuenta</h3>
+
+									<div class="container">
+                    <!-- FORMA -->     
+      <form method="post" action="registro/contact.php">
+
+          <div class="controls" style="margin-top: 15px;">
+
+              <strong>LLENE LOS CAMPOS:</strong>
+              <br><br>
+              <h4>Datos Personales</h4>
+              <div class="row">
+                  <div class="col-md-6">
+                      <div class="form-group">
+                          <label for="form_name">Nombre Completo *</label>
+                          <input id="form_name" type="text" name="name" class="form-control" placeholder="Nombre *" required="required" data-error="El nombre es requerido">
+                          <div class="help-block with-errors"></div>
+                      </div>
+                  </div>
+                  <div class="col-md-6">
+                      <div class="form-group">
+                          <label for="form_email">Email *</label>
+                          <input id="form_email" type="email" name="email" class="form-control" placeholder="Email *" required="required" data-error="Se requiere un email válido">
+                          <div class="help-block with-errors"></div>
+                      </div>
+                  </div>
+                  <div class="col-md-6">
+                      <div class="form-group">
+                          <label for="form_email">Teléfono  *</label>
+                          <input id="form_email" type="text" name="phone" class="form-control" placeholder="Teléfono  *" required="required" data-error="Se requiere un email válido">
+                          <div class="help-block with-errors"></div>
+                      </div>
+                   </div>
+              </div>
+              <div class="row">
+                  <div class="col-md-6">
+                      <div class="form-group">
+                          <label for="form_email">Usuario *</label>
+                          <input id="form_email" type="text" name="usuario" class="form-control" placeholder="Usuario *" required="required" data-error="Se requiere un email válido">
+                          <div class="help-block with-errors"></div>
+                      </div>
+                   </div>
+                   
+                      
+              </div>
+              <div class="row">
+                  <div class="col-md-6">
+                      
+                      <div class="form-group">
+                          <label for="form_email">Contraseña *</label>
+                          <input id="pass" type="password" name="pass" class="form-control" required="required" data-error="Se requiere un email válido">
+                          <div class="help-block with-errors"></div>
+                      </div>
+                      </div>
+                      <div class="col-md-6">
+                      <div class="form-group">
+                          <label for="form_phone">Repetir Contraseña *</label>
+                          <input id="pass2" type="password" name="pass2" class="form-control" required="required" data-error="Se requiere un número de teléfono válido">
+                          <div class="help-block with-errors"></div>
+                      </div>
+                  </div>
+              </div>
+
+              <!-- METODO DE PAGO -->
+              <div class="row">
+                  <div class="col-md-12">
+                      <div class="form-group">
+                      <h4>Forma de Pago</h4>
+                          <div class="radio">
+                            <label><input type="radio" name="optradio" value="tarjeta" checked>Pago con tarjeta de crédito o débito (todas las tarjetas)</label>
+                          </div>
+                          <div class="radio">
+                            <label><input type="radio" name="optradio" value="oxxo">Pago en efectivo en OXXO</label>
+                          </div>                                        
+                      </div>
+                  </div>
+              </div>
+
+              
+                              
+                      </div>
+                  </div>
+                  
+              </div>
+
+              <div class="row">
+                  <!--
+                  <div class="col-md-12">
+                      <div class="form-group">
+                          <label for="form_message">¿Tiene algún comentario, duda o pregunta?</label>
+                          <textarea id="form_message" name="message" class="form-control" placeholder="Gracias por sus comentarios" rows="4"></textarea>
+                      </div>
+                  </div>
+                  -->
+                  <div class="col-md-12">
+                      <input type="submit" class="btn btn-success btn-send" style="font-weight: bold;" value="COMPLETAR PEDIDO" onClick="passwordMatch()">
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-md-12">
+                      <p class="text-muted"><strong>*</strong> Estos campos son requeridos.
+                         </p>
+                  </div>
+              </div>
+          </div>
+
+      </form>
+
+								
+								</div>
+							
+							</article>
+
+                        <br><br><br>
+							
+
+						</div>
+						<!--eof .col-sm-8 (main content)-->
+
+
+
+					</div>
+				</div>
+			</section>
+
+			
+
+
+
+		
+
+		</div>
+		<!-- eof #box_wrapper -->
+	</div>
+	<!-- eof #canvas -->
+
+	<script src="js/compressed.js"></script>
+	<script src="js/main.js"></script>
+
+</body>
+
+
+<!-- Mirrored from webdesign-finder.com/html/models/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jan 2018 07:59:16 GMT -->
+</html>

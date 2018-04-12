@@ -1,0 +1,48 @@
+[05-Mar-2018 19:03:09 America/Mexico_City] PHP Warning:  require_once(lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:03:09 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:03:46 America/Mexico_City] PHP Warning:  require_once(lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:03:46 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:05:21 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 139
+[05-Mar-2018 19:06:00 America/Mexico_City] PHP Warning:  require_once(../lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:00 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:02 America/Mexico_City] PHP Warning:  require_once(../lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:02 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:12 America/Mexico_City] PHP Warning:  require_once(../lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:12 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:14 America/Mexico_City] PHP Warning:  require_once(../lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:14 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:15 America/Mexico_City] PHP Warning:  require_once(../lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:15 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:15 America/Mexico_City] PHP Warning:  require_once(../lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:15 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:15 America/Mexico_City] PHP Warning:  require_once(../lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:06:15 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '../lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 57
+[05-Mar-2018 19:10:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 49
+[06-Mar-2018 12:22:28 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:28 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:28 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:28 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:28 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:28 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:28 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:28 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:28 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:28 America/Mexico_City] PHP Notice:  Undefined offset: 9 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:59 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:59 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:59 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:59 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:59 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:59 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:59 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:59 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:59 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:59 America/Mexico_City] PHP Notice:  Undefined offset: 9 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:22:59 America/Mexico_City] PHP Notice:  Undefined offset: 10 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:32:28 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:32:28 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:32:28 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:32:28 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:32:28 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:32:28 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125
+[06-Mar-2018 12:32:28 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/contact_oxxo.php on line 125

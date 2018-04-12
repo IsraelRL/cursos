@@ -1,0 +1,53 @@
+[29-Jan-2018 15:51:16 America/Mexico_City] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home4/gentecom/public_html/arouesty/sistema/eliminarvideo.php on line 9
+[29-Jan-2018 15:51:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home4/gentecom/public_html/arouesty/sistema/eliminarvideo.php on line 315
+[29-Jan-2018 15:52:33 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home4/gentecom/public_html/arouesty/sistema/eliminarvideo.php on line 204
+[29-Jan-2018 20:31:16 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty/sistema/home.php on line 275
+[29-Jan-2018 20:32:03 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty/sistema/home.php on line 275
+[09-Feb-2018 11:53:38 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/eliminarvideo.php on line 315
+[09-Feb-2018 11:53:45 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/eliminarvideo.php on line 315
+[09-Feb-2018 11:53:57 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/eliminarvideo.php on line 315
+[16-Feb-2018 15:05:53 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 427
+[16-Feb-2018 15:06:49 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 427
+[16-Feb-2018 15:07:55 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 427
+[16-Feb-2018 15:07:59 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 427
+[16-Feb-2018 15:08:10 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 428
+[16-Feb-2018 15:09:12 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 381
+[16-Feb-2018 15:09:13 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 431
+[16-Feb-2018 15:09:15 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 431
+[16-Feb-2018 15:09:32 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 431
+[16-Feb-2018 15:09:33 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 431
+[16-Feb-2018 15:18:02 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 437
+[16-Feb-2018 15:18:18 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouesty2/sistema/editarvideo.php on line 437
+[22-Mar-2018 17:47:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''</td></tr>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/gentecom/public_html/arouestyretoque.com/sistema/vercat.php on line 265
+[22-Mar-2018 17:47:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''</td></tr>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/gentecom/public_html/arouestyretoque.com/sistema/vercat.php on line 265
+[22-Mar-2018 17:47:55 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''</td></tr>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/gentecom/public_html/arouestyretoque.com/sistema/vercat.php on line 265
+[22-Mar-2018 17:47:57 America/Mexico_City] PHP Parse error:  syntax error, unexpected ''</td></tr>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home4/gentecom/public_html/arouestyretoque.com/sistema/vercat.php on line 265
+[22-Mar-2018 18:09:58 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home4/gentecom/public_html/arouestyretoque.com/sistema/addsub2.php on line 427
+[22-Mar-2018 18:10:27 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home4/gentecom/public_html/arouestyretoque.com/sistema/addsub2.php on line 427
+[22-Mar-2018 18:10:58 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home4/gentecom/public_html/arouestyretoque.com/sistema/addsub2.php on line 423
+[22-Mar-2018 18:15:05 America/Mexico_City] PHP Warning:  mysqli::query(): Empty query in /home4/gentecom/public_html/arouestyretoque.com/sistema/addsub2.php on line 9
+[22-Mar-2018 18:15:09 America/Mexico_City] PHP Warning:  mysqli::query(): Empty query in /home4/gentecom/public_html/arouestyretoque.com/sistema/addsub2.php on line 9
+[23-Mar-2018 10:16:43 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/gentecom/public_html/arouestyretoque.com/sistema/config/connect_db.php on line 24
+[23-Mar-2018 10:16:43 America/Mexico_City] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home4/gentecom/public_html/arouestyretoque.com/sistema/config/connect_db.php on line 25
+[23-Mar-2018 10:19:16 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/gentecom/public_html/arouestyretoque.com/sistema/config/connect_db.php on line 24
+[23-Mar-2018 10:19:16 America/Mexico_City] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home4/gentecom/public_html/arouestyretoque.com/sistema/config/connect_db.php on line 25
+[23-Mar-2018 10:19:29 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/gentecom/public_html/arouestyretoque.com/sistema/config/connect_db.php on line 24
+[23-Mar-2018 10:19:29 America/Mexico_City] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home4/gentecom/public_html/arouestyretoque.com/sistema/config/connect_db.php on line 25
+[23-Mar-2018 10:19:31 America/Mexico_City] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/gentecom/public_html/arouestyretoque.com/sistema/config/connect_db.php on line 24
+[23-Mar-2018 10:19:31 America/Mexico_City] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home4/gentecom/public_html/arouestyretoque.com/sistema/config/connect_db.php on line 25
+[26-Mar-2018 10:10:58 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/vervideo.php on line 323
+[26-Mar-2018 10:11:25 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/vervideo.php on line 323
+[26-Mar-2018 10:12:09 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/vervideo.php on line 323
+[26-Mar-2018 10:12:45 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/vervideo.php on line 323
+[26-Mar-2018 10:13:13 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/vervideo.php on line 323
+[26-Mar-2018 10:13:20 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/vervideo.php on line 323
+[26-Mar-2018 10:17:00 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/vervideo.php on line 323
+[26-Mar-2018 10:17:47 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/vervideo.php on line 323
+[26-Mar-2018 10:18:44 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/vervideo.php on line 323
+[26-Mar-2018 10:23:32 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/vervideo.php on line 323
+[26-Mar-2018 10:25:28 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/vervideo.php on line 323
+[26-Mar-2018 11:22:46 America/Mexico_City] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home4/gentecom/public_html/arouestyretoque.com/sistema/eliminarvideo.php on line 315
+[26-Mar-2018 18:58:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home4/gentecom/public_html/arouestyretoque.com/sistema/vercat.php on line 161
+[26-Mar-2018 18:58:56 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home4/gentecom/public_html/arouestyretoque.com/sistema/vercat.php on line 161
+[26-Mar-2018 19:08:59 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home4/gentecom/public_html/arouestyretoque.com/sistema/vercat.php on line 37
+[26-Mar-2018 19:10:40 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file in /home4/gentecom/public_html/arouestyretoque.com/sistema/vercat.php on line 37

@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+
+<!-- Mirrored from webdesign-finder.com/html/models/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jan 2018 07:59:16 GMT -->
+<head>
+	<title>Arouesty Sistema</title>
+	<meta charset="utf-8">
+	<!--[if IE]>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <![endif]-->
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/main.css" id="color-switcher-link">
+	<link rel="stylesheet" href="css/animations.css">
+	<link rel="stylesheet" href="css/fonts.css">
+	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+	<!--[if lt IE 9]>
+        <script src="js/vendor/html5shiv.min.js"></script>
+        <script src="js/vendor/respond.min.js"></script>
+    <![endif]-->
+    <!-- Validar contraseña -->
+        <script type="text/javascript">
+          function passwordMatch() {
+            var password, password2;
+
+            password = document.getElementById('pass');
+            password2 = document.getElementById('pass2');
+            password.onchange = password2.onkeyup = passwordMatch;
+            
+          
+                if(password.value !== password2.value)
+                    password2.setCustomValidity('Las contraseñas no coinciden.');
+                else
+                    password2.setCustomValidity('');
+            }
+        </script>
+
+         <script type="text/javascript">
+          function verifica_clave(){
+          var cadena=document.getElementById('pass').value;
+          var expresionR=/^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?!.*\s).{5,18}$/;
+          var resultado=expresionR.test(cadena);
+          if(resultado != true){
+          document.getElementById('errorm').innerHTML = " &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='red'>Error en los caracteres requeridos</font> ";
+          return false;
+          }
+          }
+    </script>
+</head>
+
+<body>
+	<!--[if lt IE 9]>
+        <div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+    <![endif]-->
+
+	<div class="preloader">
+		<div class="preloader_image"></div>
+	</div>
+
+
+	<!-- wrappers for visual page editor and boxed version of template -->
+	<div id="canvas">
+		<div id="box_wrapper">
+            
+
+
+			<!-- template sections -->
+
+			<header class="page_header header_darkgrey columns_padding_0 table_section">
+				<div class="container-fluid">
+					
+				</div>
+			</header>
+
+			
+
+			<section class="ds section_padding_80 columns_padding_25" style="padding-left: 150px; padding-right: 150px;">
+				<div class="container">
+					<div class="row">
+
+
+						<div class="col-md-12">
+
+							<article>
+								<h1 style="text-align: center"><img src="img/registro.jpg"></h1>
+
+								<div class="entry-content">
+									<br>
+									<img src="img/membresia.jpg">
+									<p>Esta membresía te dará acceso a todos los contenidos de nuestro curso de retoque digital y además tendrás un 20% de descuento en nuestros workshops que te enviaremos mensualmente por medio de nuestro newsletter.</p>
+									<br>
+									<h3>1.- Crea tu cuenta</h3>
+
+									<div class="container">
+                    <!-- FORMA -->     
+      <form method="post" action="registro/contact.php" onsubmit="return verifica_clave();">
+
+          <div class="controls" style="margin-top: 15px;">
+
+              
+              <div class="row">
+              <div class="col-md-1">
+              </div>
+                  <div class="col-md-11">
+                      <div class="form-group">
+                          Nombre Completo *
+                          <input id="form_name" type="text" name="name"  placeholder="Nombre *" required="required" data-error="El nombre es requerido" class="input1">
+                          <div class="help-block with-errors"></div>
+                      </div>
+                  </div>
+                   <div class="col-md-1">
+              </div>
+                  <div class="col-md-11">
+                      <div class="form-group">
+                          <label for="form_email">Email *</label>
+                          <input id="form_email" type="email" name="email" class="input2" placeholder="Email *" required="required" data-error="Se requiere un email válido">
+                          <div class="help-block with-errors"></div>
+                      </div>
+                  </div>
+                  <div class="col-md-1">
+              </div>
+                  <div class="col-md-11">
+                      <div class="form-group">
+                          <label for="form_email">Teléfono  *</label>
+                          <input id="form_email" type="text" name="phone" class="input3" placeholder="Teléfono  *" required="required" data-error="Se requiere un email válido">
+                          <div class="help-block with-errors"></div>
+                      </div>
+                   </div>
+              </div>
+              <div class="row">
+                   <div class="col-md-1">
+              </div>
+                  <div class="col-md-11">
+                      <div class="form-group">
+                          <label for="form_email">Usuario *</label>
+                          <input id="form_email" type="text" name="usuario" class="input4" placeholder="Usuario *" required="required" data-error="Se requiere un email válido">
+                          <div class="help-block with-errors"></div>
+                      </div>
+                   </div>
+                   
+                      
+              </div>
+              <div class="row">
+                   <div class="col-md-1">
+              </div>
+                  <div class="col-md-11">
+                      
+                      <div class="form-group">
+                          <label for="form_email">Contraseña *</label>
+                          <input id="pass" type="password" name="pass" class="input5" required="required" data-error="Se requiere un email válido"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Al menos una mayúscula una minúscula y un número, minimo 5 caracteres)<div id="errorm"><!-- mensaje de error --></div>
+                          <div class="help-block with-errors"></div>
+                      </div>
+                      </div>
+                      <div class="col-md-1">
+              </div>
+                  <div class="col-md-11">
+                      <div class="form-group">
+                          <label for="form_phone">Repetir Contraseña *</label>
+                          <input id="pass2" type="password" name="pass2" class="input6" required="required" data-error="Se requiere un número de teléfono válido">
+                          <div class="help-block with-errors"></div>
+                      </div>
+                  </div>
+              </div>
+
+              <!-- METODO DE PAGO -->
+              <div class="row">
+              <h4>2.- Forma de Pago</h4><br>
+                 <div class="col-md-1">
+              </div>
+                  <div class="col-md-11">
+                      <div class="form-group">
+                      
+                          <div class="radio">
+                            <label><input type="radio" name="optradio" value="tarjeta" checked>Pago con tarjeta de crédito o débito (todas las tarjetas)</label>
+                          </div><br>
+                          <div class="radio">
+                            <label><input type="radio" name="optradio" value="oxxo">Pago en efectivo en OXXO</label><br>
+                          </div>                                        
+                      </div>
+                  </div>
+              </div>
+
+              
+                              
+                      </div>
+                  </div>
+                  
+              </div>
+
+              <div class="row">
+                  <!--
+                  <div class="col-md-12">
+                      <div class="form-group">
+                          <label for="form_message">¿Tiene algún comentario, duda o pregunta?</label>
+                          <textarea id="form_message" name="message" class="form-control" placeholder="Gracias por sus comentarios" rows="4"></textarea>
+                      </div>
+                  </div>
+                  -->
+                  <div class="col-md-12">
+                      <p align="center"><br><br>
+                      <input type="image" src="img/crear.jpg"  style="font-weight: bold;" value="COMPLETAR PEDIDO" onClick="passwordMatch()" />
+                      </p>
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-md-12">
+                      <p class="text-muted"><strong>*</strong> Estos campos son requeridos.
+                         </p>
+                  </div>
+              </div>
+          </div>
+
+      </form>
+
+								
+								</div>
+							
+							</article>
+
+                        <br><br><br>
+							
+
+						</div>
+						<!--eof .col-sm-8 (main content)-->
+
+
+
+					</div>
+				</div>
+			</section>
+
+			
+
+
+
+		
+
+		</div>
+		<!-- eof #box_wrapper -->
+	</div>
+	<!-- eof #canvas -->
+
+	<script src="js/compressed.js"></script>
+	<script src="js/main.js"></script>
+
+</body>
+
+
+<!-- Mirrored from webdesign-finder.com/html/models/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jan 2018 07:59:16 GMT -->
+</html>

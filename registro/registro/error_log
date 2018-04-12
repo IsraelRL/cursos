@@ -1,0 +1,314 @@
+[01-Mar-2018 19:28:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected '=' in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact.php on line 15
+[01-Mar-2018 19:28:27 America/Mexico_City] PHP Warning:  require(../../config/connect_db.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact.php on line 5
+[01-Mar-2018 19:28:27 America/Mexico_City] PHP Warning:  require(../../config/connect_db.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact.php on line 5
+[01-Mar-2018 19:28:27 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '../../config/connect_db.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact.php on line 5
+[01-Mar-2018 19:29:44 America/Mexico_City] PHP Warning:  include(utilities/send_email.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 5
+[01-Mar-2018 19:29:44 America/Mexico_City] PHP Warning:  include(utilities/send_email.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 5
+[01-Mar-2018 19:29:44 America/Mexico_City] PHP Warning:  include(): Failed opening 'utilities/send_email.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 5
+[01-Mar-2018 19:29:44 America/Mexico_City] PHP Notice:  Undefined index: products in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 14
+[01-Mar-2018 19:29:44 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 14
+[01-Mar-2018 19:29:44 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 31
+[01-Mar-2018 19:29:44 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 33
+[01-Mar-2018 19:29:44 America/Mexico_City] PHP Warning:  require_once(conekta/lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 45
+[01-Mar-2018 19:29:44 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'conekta/lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 45
+[01-Mar-2018 19:32:42 America/Mexico_City] PHP Warning:  include(utilities/send_email.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 5
+[01-Mar-2018 19:32:42 America/Mexico_City] PHP Warning:  include(utilities/send_email.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 5
+[01-Mar-2018 19:32:42 America/Mexico_City] PHP Warning:  include(): Failed opening 'utilities/send_email.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 5
+[01-Mar-2018 19:32:42 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 30
+[01-Mar-2018 19:32:42 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 32
+[01-Mar-2018 19:32:42 America/Mexico_City] PHP Warning:  require_once(conekta/lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 44
+[01-Mar-2018 19:32:42 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'conekta/lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 44
+[01-Mar-2018 19:45:58 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 43
+[01-Mar-2018 19:45:58 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 45
+[01-Mar-2018 19:45:58 America/Mexico_City] PHP Warning:  require_once(conekta/lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 19:45:58 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'conekta/lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 20:03:58 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 43
+[01-Mar-2018 20:03:58 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 45
+[01-Mar-2018 20:03:58 America/Mexico_City] PHP Warning:  require_once(conekta/lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 20:03:58 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'conekta/lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 20:21:32 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 43
+[01-Mar-2018 20:21:32 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 45
+[01-Mar-2018 20:21:32 America/Mexico_City] PHP Warning:  require_once(lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 20:21:32 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 20:21:38 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 43
+[01-Mar-2018 20:21:38 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 45
+[01-Mar-2018 20:21:38 America/Mexico_City] PHP Warning:  require_once(lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 20:21:38 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 20:21:39 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 43
+[01-Mar-2018 20:21:39 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 45
+[01-Mar-2018 20:21:39 America/Mexico_City] PHP Warning:  require_once(lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 20:21:39 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 20:21:40 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 43
+[01-Mar-2018 20:21:40 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 45
+[01-Mar-2018 20:21:40 America/Mexico_City] PHP Warning:  require_once(lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 20:21:40 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required 'lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 57
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 43
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 45
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined index: direccion in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 80
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined index: city in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 80
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined index: cp in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 81
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined index: es in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/lib/Conekta/Lang.php on line 19
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:21:43 America/Mexico_City] PHP Fatal error:  Call to undefined function sendMailSimple() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 122
+[01-Mar-2018 20:22:13 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 43
+[01-Mar-2018 20:22:13 America/Mexico_City] PHP Notice:  Undefined index: total_pedido in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 45
+[01-Mar-2018 20:22:13 America/Mexico_City] PHP Notice:  Undefined index: direccion in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 80
+[01-Mar-2018 20:22:13 America/Mexico_City] PHP Notice:  Undefined index: city in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 80
+[01-Mar-2018 20:22:13 America/Mexico_City] PHP Notice:  Undefined index: cp in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 81
+[01-Mar-2018 20:22:14 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:22:14 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:22:14 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:22:14 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:22:14 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:22:14 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:22:14 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:22:14 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:22:14 America/Mexico_City] PHP Fatal error:  Call to undefined function sendMailSimple() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 122
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Notice:  Undefined index: direccion in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 80
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Notice:  Undefined index: city in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 80
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Notice:  Undefined index: cp in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 81
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:23:27 America/Mexico_City] PHP Fatal error:  Call to undefined function sendMailSimple() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 122
+[01-Mar-2018 20:24:07 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:24:07 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:24:07 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:24:07 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:24:07 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:24:07 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:24:07 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:24:07 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:24:07 America/Mexico_City] PHP Fatal error:  Call to undefined function sendMailSimple() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 122
+[01-Mar-2018 20:25:08 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:25:08 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:25:08 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:25:08 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:25:08 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:25:08 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:25:08 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:25:08 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:25:08 America/Mexico_City] PHP Fatal error:  Call to undefined function sendMailSimple() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 122
+[01-Mar-2018 20:26:53 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:26:53 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:26:53 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:26:53 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:26:53 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:26:53 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:26:53 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:26:53 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:36 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:36 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:36 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:36 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:36 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:36 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:36 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:36 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:43 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:43 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:43 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:43 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:43 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:43 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:43 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:43 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:59 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:59 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:59 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:59 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:59 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:59 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:59 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:27:59 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:27 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:27 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:27 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:27 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:27 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:27 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:27 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:27 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:34 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:34 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:34 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:34 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:34 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:34 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:34 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:28:34 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 118
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Undefined variable: order in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 134
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 134
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 134
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 134
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Undefined variable: order in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 138
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 138
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Undefined variable: order in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 139
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 139
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 139
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 139
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Undefined variable: order in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 141
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 141
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Undefined variable: order in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 141
+[01-Mar-2018 20:34:15 America/Mexico_City] PHP Notice:  Trying to get property of non-object in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 141
+[01-Mar-2018 20:34:52 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 162
+[01-Mar-2018 20:34:52 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 162
+[01-Mar-2018 20:34:52 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 162
+[01-Mar-2018 20:34:52 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 162
+[01-Mar-2018 20:34:52 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 162
+[01-Mar-2018 20:34:52 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 162
+[01-Mar-2018 20:34:52 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 162
+[01-Mar-2018 20:34:52 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 162
+[01-Mar-2018 20:35:20 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:20 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:20 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:20 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:20 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:20 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:20 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:20 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:49 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:49 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:49 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:49 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:49 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:49 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:49 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:35:49 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:36:06 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:36:06 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:36:06 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:36:06 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:36:06 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:36:06 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:36:06 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:36:06 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 119
+[01-Mar-2018 20:37:32 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[01-Mar-2018 20:37:32 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[01-Mar-2018 20:37:32 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[01-Mar-2018 20:37:32 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[01-Mar-2018 20:37:32 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[01-Mar-2018 20:37:32 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[01-Mar-2018 20:37:32 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[01-Mar-2018 20:37:32 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[01-Mar-2018 20:48:07 America/Mexico_City] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 6
+[01-Mar-2018 20:48:07 America/Mexico_City] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 6
+[01-Mar-2018 20:48:07 America/Mexico_City] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 6
+[01-Mar-2018 20:48:07 America/Mexico_City] PHP Warning:  include(utilities/accents_remove.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 7
+[01-Mar-2018 20:48:07 America/Mexico_City] PHP Warning:  include(utilities/accents_remove.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 7
+[01-Mar-2018 20:48:07 America/Mexico_City] PHP Warning:  include(): Failed opening 'utilities/accents_remove.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 7
+[01-Mar-2018 20:48:07 America/Mexico_City] PHP Fatal error:  Call to undefined function remove_accents() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 89
+[01-Mar-2018 20:49:17 America/Mexico_City] PHP Warning:  include(utilities/accents_remove.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 7
+[01-Mar-2018 20:49:17 America/Mexico_City] PHP Warning:  include(utilities/accents_remove.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 7
+[01-Mar-2018 20:49:17 America/Mexico_City] PHP Warning:  include(): Failed opening 'utilities/accents_remove.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 7
+[01-Mar-2018 20:49:17 America/Mexico_City] PHP Fatal error:  Call to undefined function remove_accents() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 89
+[01-Mar-2018 20:49:26 America/Mexico_City] PHP Fatal error:  Call to undefined function remove_accents() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 89
+[01-Mar-2018 20:49:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta.php on line 89
+[01-Mar-2018 21:27:43 America/Mexico_City] PHP Parse error:  syntax error, unexpected ',' in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 81
+[01-Mar-2018 21:33:05 America/Mexico_City] PHP Notice:  Undefined index: products in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 19
+[01-Mar-2018 21:33:05 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 19
+[01-Mar-2018 21:33:05 America/Mexico_City] PHP Warning:  require_once(/lib/Conekta.php): failed to open stream: No such file or directory in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 47
+[01-Mar-2018 21:33:05 America/Mexico_City] PHP Fatal error:  require_once(): Failed opening required '/lib/Conekta.php' (include_path='.:/opt/php56/lib/php') in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 47
+[01-Mar-2018 21:38:07 America/Mexico_City] PHP Notice:  Undefined index: direccion in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 95
+[01-Mar-2018 21:38:07 America/Mexico_City] PHP Notice:  Undefined index: city in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 96
+[01-Mar-2018 21:38:07 America/Mexico_City] PHP Notice:  Undefined index: city in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 97
+[01-Mar-2018 21:38:07 America/Mexico_City] PHP Notice:  Undefined index: cp in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 99
+[01-Mar-2018 21:38:08 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:38:08 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:38:08 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:38:08 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:38:08 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:38:08 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:38:08 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:38:08 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:38:08 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:38:08 America/Mexico_City] PHP Notice:  Undefined offset: 9 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:38:08 America/Mexico_City] PHP Fatal error:  Call to undefined function sendMailSimple() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 191
+[01-Mar-2018 21:42:52 America/Mexico_City] PHP Notice:  Undefined variable: customer in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 88
+[01-Mar-2018 21:42:52 America/Mexico_City] PHP Notice:  Undefined variable: customer in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 92
+[01-Mar-2018 21:42:52 America/Mexico_City] PHP Notice:  Undefined variable: customer in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 93
+[01-Mar-2018 21:42:52 America/Mexico_City] PHP Notice:  Undefined index: direccion in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 95
+[01-Mar-2018 21:42:52 America/Mexico_City] PHP Notice:  Undefined index: city in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 96
+[01-Mar-2018 21:42:52 America/Mexico_City] PHP Notice:  Undefined index: city in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 97
+[01-Mar-2018 21:42:52 America/Mexico_City] PHP Notice:  Undefined index: cp in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 99
+[01-Mar-2018 21:42:52 America/Mexico_City] PHP Notice:  Undefined variable: customer in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 111
+[01-Mar-2018 21:42:53 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:42:53 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:42:53 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:42:53 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:42:53 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:42:53 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:42:53 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:42:53 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:42:53 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:42:53 America/Mexico_City] PHP Notice:  Undefined offset: 9 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 187
+[01-Mar-2018 21:42:53 America/Mexico_City] PHP Fatal error:  Call to undefined function sendMailSimple() in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 191
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined variable: customer in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 102
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined variable: customer in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 106
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined variable: customer in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 107
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined index: direccion in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 109
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined index: city in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 110
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined index: city in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 111
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined index: cp in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 113
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined variable: customer in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 125
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 202
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 202
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 202
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 202
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 202
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 202
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 202
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 202
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 202
+[01-Mar-2018 22:01:32 America/Mexico_City] PHP Notice:  Undefined offset: 9 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_tarjeta_validacion.php on line 202
+[05-Mar-2018 18:57:55 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:57:55 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:57:55 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:57:55 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:57:55 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:57:55 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:57:55 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:57:55 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:58:56 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:58:56 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:58:56 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:58:56 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:58:56 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:58:56 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:58:56 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:58:56 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:58:56 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:58:56 America/Mexico_City] PHP Notice:  Undefined offset: 9 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:59:38 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:59:38 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:59:38 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:59:38 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:59:38 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:59:38 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:59:38 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:59:38 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:59:38 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:59:38 America/Mexico_City] PHP Notice:  Undefined offset: 9 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 18:59:38 America/Mexico_City] PHP Notice:  Undefined offset: 10 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 19:00:28 America/Mexico_City] PHP Notice:  Undefined offset: 0 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 19:00:28 America/Mexico_City] PHP Notice:  Undefined offset: 1 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 19:00:28 America/Mexico_City] PHP Notice:  Undefined offset: 2 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 19:00:28 America/Mexico_City] PHP Notice:  Undefined offset: 3 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 19:00:28 America/Mexico_City] PHP Notice:  Undefined offset: 4 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 19:00:28 America/Mexico_City] PHP Notice:  Undefined offset: 5 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 19:00:28 America/Mexico_City] PHP Notice:  Undefined offset: 6 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 19:00:28 America/Mexico_City] PHP Notice:  Undefined offset: 7 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 19:00:28 America/Mexico_City] PHP Notice:  Undefined offset: 8 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125
+[05-Mar-2018 19:00:28 America/Mexico_City] PHP Notice:  Undefined offset: 9 in /home4/gentecom/public_html/arouesty2/arouestyinicio/registro/contact_oxxo.php on line 125

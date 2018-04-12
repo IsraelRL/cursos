@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: black;">
+<head><title>Arouesty Sistema | Login</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Loading bootstrap css-->
+    <link type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,800italic,400,700,800">
+    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oswald:400,700,300">
+    <link type="text/css" rel="stylesheet" href="vendors/jquery-ui-1.10.3.custom/css/ui-lightness/jquery-ui-1.10.3.custom.css">
+    <link type="text/css" rel="stylesheet" href="vendors/font-awesome/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="vendors/bootstrap/css/bootstrap.min.css">
+    <!--Loading style vendors-->
+    <link type="text/css" rel="stylesheet" href="vendors/animate.css/animate.css">
+    <link type="text/css" rel="stylesheet" href="vendors/iCheck/skins/all.css">
+    <!--Loading style-->
+    <link type="text/css" rel="stylesheet" href="css/themes/style1/pink-violet.css" id="theme-change" class="style-change color-change">
+    <link type="text/css" rel="stylesheet" href="css/style-responsive.css">
+    <link rel="shortcut icon" href="images/favicon.ico">
+</head>
+<body id="signin-page" background="#000">
+<div class="page-form">
+    <form action="login/validar.php" class="form" method="post">
+        <div class="header-content"><a href="index.html">
+                                <p align="center"><img src="../img/logo.jpg" width="65%"></p>
+                            </a></div>
+        <div class="body-content"><p>Iniciar sesión:</p>
+
+            
+            <div class="form-group">
+                <div class="input-icon right"><i class="fa fa-user"></i><input type="text" placeholder="Correo" name="mail" class="form-control"></div>
+            </div>
+            <div class="form-group">
+                <div class="input-icon right"><i class="fa fa-key"></i><input type="password" placeholder="Password" name="pass" class="form-control"></div>
+            </div>
+            
+            <div class="form-group pull-right">
+                <button type="submit" class="btn btn-success">Ingresar
+                    &nbsp;<i class="fa fa-chevron-circle-right"></i></button>
+            </div>
+            <div class="clearfix"></div>
+            
+            <hr>
+            <p>Regresar al sitio web <a id="btn-register" href="#">Regresar</a></p></div>
+    </form>
+</div>
+            <section class="ls page_copyright section_padding_20">
+                <div class="container">
+                    <div class="row topmargin_5 bottommargin_5">
+                        <div class="col-sm-12 text-center">
+                        <a href="../pdf/Terminos-y-Condiciones.pdf" target="_blank"><br>Términos y Condiciones</a> | <a href="../pdf/FAQ.pdf" target="_blank">FAQ</a> | <a href="../arouestyinicio/colaboradores.php" target="_blank">Colaboradores </a>
+                           
+                        </div>
+                    </div>
+                </div>
+            </section>
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/jquery-migrate-1.2.1.min.js"></script>
+<script src="js/jquery-ui.js"></script>
+<!--loading bootstrap js-->
+<script src="vendors/bootstrap/js/bootstrap.min.js"></script>
+<script src="vendors/bootstrap-hover-dropdown/bootstrap-hover-dropdown.js"></script>
+<script src="js/html5shiv.js"></script>
+<script src="js/respond.min.js"></script>
+<script src="vendors/iCheck/icheck.min.js"></script>
+<script src="vendors/iCheck/custom.min.js"></script>
+<script>//BEGIN CHECKBOX & RADIO
+$('input[type="checkbox"]').iCheck({
+    checkboxClass: 'icheckbox_minimal-grey',
+    increaseArea: '20%' // optional
+});
+$('input[type="radio"]').iCheck({
+    radioClass: 'iradio_minimal-grey',
+    increaseArea: '20%' // optional
+});
+//END CHECKBOX & RADIO</script>
+</body>
+</html>
